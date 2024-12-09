@@ -9,8 +9,8 @@ I am also passionate about electronic music and aviation.
 francesco.stanziola[at]uniroma1.it
 
 #### Education
-M.Arch., Architettura (Restauro), Sapienza University of Rome, 2023. 
-B.Arch., Progettazione dell'Architettura, Politecnico di Milano, 2020.
+- M.Arch., Architettura (Restauro), Sapienza University of Rome, 2023. 
+- B.Arch., Progettazione dell'Architettura, Politecnico di Milano, 2020.
 
 #### Research Interests
 Digitization, Cultural Heritage, Neural Rendering, Atmospheres

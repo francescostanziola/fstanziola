@@ -1,16 +1,16 @@
+I am a PhD student at Sapienza University of Rome, enrolled in the program History, Representation, and Restoration of Architecture, within the Representation curriculum.
 
+My research focuses on the digitization of architectural cultural heritage, with particular attention to the phenomenological aspects that characterize these extraordinary testimonies of humanity's past. I primarily work with laser scanning, photogrammetry, and I am exploring the topics of neural rendering.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+My other interests revolve around the graphic languages of representation and communication, surveying, and design. 
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+I am also passionate about electronic music and aviation. 
 #### Email
-sli[at]cumt.edu.cn
+francesco.stanziola[at]uniroma1.it
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Arch., Architettura (Restauro), Sapienza University of Rome, 2023. 
+B.Arch., Progettazione dell'Architettura, Politecnico di Milano, 2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Digitization, Cultural Heritage, Neural Rendering, Atmospheres

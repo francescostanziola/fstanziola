@@ -1,4 +1,4 @@
-I am a PhD student at Sapienza University of Rome, enrolled in the program History, Representation, and Restoration of Architecture, within the Representation curriculum.
+I am a PhD student at Sapienza University of Rome, enrolled in the program History, Representation, and Restoration of Architecture, within the Representation curriculum. I have a doctoral scholarship dedicated to the digitization and communication of the architectural heritage of the beautiful municipality of [Centola (SA)](https://www.comune.centola.sa.it/it-it/home), in southern Italy.
 
 My research focuses on the digitization of architectural cultural heritage, with particular attention to the phenomenological aspects that characterize these extraordinary testimonies of humanity's past. I primarily work with laser scanning, photogrammetry, and I am exploring the topics of neural rendering.
 
